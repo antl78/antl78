@@ -1,20 +1,21 @@
 ## Salut, moi c'est Antoine 👋
 
 **Data Engineer** orienté IA générative, basé en Île-de-France.
+
 J'aime transformer des données brutes en pipelines fiables, en dashboards utiles et, de plus en plus, en applications qui exploitent des LLM.
 
 - 🎓 Ingénieur en informatique (EFREI)
-- 💼 Ex-Data Scientist chez Natixis : analyse de la consommation de serveurs, dashboards, automatisation SQL
+- 💼 Ex-Data Scientist (Natixis) : automatisation de requêtes SQL sur Hadoop/Spark, dashboards Power BI, outil interne Flask
 - 🌱 En ce moment : Airflow, Spark, GCP et applications LLM (Ollama, FastAPI)
 - 📫 Ouvert aux opportunités en **Data / AI Engineering** (CDI ou freelance)
 
 ### 🛠️ Stack
 
-**Langages :** Python · SQL · Bash · R
-**Data :** Pandas · DuckDB · Spark · Airflow · Hadoop
-**Cloud & DevOps :** GCP · Azure · Docker · Git
-**Visualisation & apps :** Power BI · Streamlit · Flask · FastAPI
-**IA :** LLM locaux (Ollama, Mistral)
+- **Langages :** Python · SQL · Bash · R
+- **Data :** Pandas · DuckDB · Spark · Airflow · Hadoop
+- **Cloud & DevOps :** GCP · Azure · Docker · Git
+- **Visualisation & apps :** Power BI · Streamlit · Flask · FastAPI
+- **IA :** LLM locaux (Ollama, Mistral)
 
 ### 📌 Projets à la une
 
