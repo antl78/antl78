@@ -21,7 +21,7 @@ J'aime transformer des données brutes en pipelines fiables, en dashboards utile
 
 | Projet | Description | Stack |
 |---|---|---|
-| [interview-srs]([https://github.com/antl78/sql_srs](https://github.com/antl78/interview-srs)) | Application de révision SQL par répétition espacée | Python · Streamlit · DuckDB |
+| [interview-srs](https://github.com/antl78/interview-srs) | Application de révision SQL par répétition espacée | Python · Streamlit · DuckDB |
 | [Bot-chan](https://github.com/antl78/Bot-chan) | Bot d'archivage et d'analyse des messages d'un serveur Discord | Python · discord.py |
 <!-- Décommente cette ligne quand le repo du chatbot sera publié :
 | [chatbot-local](https://github.com/antl78/chatbot-local) | Chatbot IA 100 % local, servi via une API | FastAPI · Ollama · Mistral · Docker |
